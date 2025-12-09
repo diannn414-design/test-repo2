@@ -11,5 +11,7 @@ num2 = int(second)
 # 합 계산
 result = num1 + num2
 
+rer = num1 * num2
+
 # 결과 출력
 print("Sum:", result)
